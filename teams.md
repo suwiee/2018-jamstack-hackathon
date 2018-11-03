@@ -115,3 +115,15 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
+# Rental Review
+### Our team is building an application to review rental properties.
+* Teammates:
+    - Kalsang Bhutia (@Avosammy#543)
+    - Shoua Chang (@Shoua Chang#5994)
+    - Hannah Lee (@hannah)
+    - Vy Nguyen (@vynguyen)
+* Seeking Teammates: No
+* [Project URL](https://github.com/hurlyburly/rentalreviews)
+* Project Name: TBD
+
+***
