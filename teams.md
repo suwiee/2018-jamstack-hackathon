@@ -249,3 +249,23 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 * [Project URl](https://github.com/jraleman/jamstack-2018)
 
 ***
+
+# Rental Review
+### Rental review application
+* Teammates:
+    - Kalsang Bhutia (@Avosammy#5437)
+    - Hannah Lee (@hannah#7831)
+    - Vy Nguyen (@vynguyen#8368)
+    - Shoua Chang (@Shoua Chang#5994)
+* Seeking Teammates: No
+* [Project URL](https://github.com/hurlyburly/rentalreviews)
+* Project Name TBD
+### Project Q&A:
+1. What are you going to build?  
+// Our team is building an application to allow tenants to review rental properties.
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+// The APIs that we are using will be: formspree and Fauna 
+3. What is your plan to execute this idea?  
+// Our plan to execute this idea is research content, design layout and implement a first iteration of the application.
+
+***
